@@ -11,9 +11,12 @@ h1 {
 }
 
 p {
-    color: aquamarine;
     font-size: 16px;
     text-align: center;
+}
+
+a {
+    color: aquamarine;
 }
 
 video {
@@ -30,4 +33,15 @@ h3 {
 img {
     display: block;
     margin: 0 auto;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
+}
+
+#landscape {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 75px;
 }
